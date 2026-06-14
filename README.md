@@ -1,1 +1,2 @@
 # Mobile_Computing
+Link Figma : https://www.figma.com/design/fOnfMLX3cYcjVJxjfTtekg/Tugas.project?node-id=0-1&t=wQdMPkBzIs5YCQPf-1
